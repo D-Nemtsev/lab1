@@ -1,0 +1,17 @@
+javaproject/demo/entities/Order.java
+ javaproject.demo.entities.Order
+ javaproject.demo.entities.Order$OrderBuilder
+javaproject/demo/entities/Product.java
+ javaproject.demo.entities.Product
+ javaproject.demo.entities.Product$ProductBuilder
+javaproject/demo/entities/Worker.java
+ javaproject.demo.entities.Worker
+ javaproject.demo.entities.Worker$WorkerBuilder
+javaproject/demo/entities/Supplier.java
+ javaproject.demo.entities.Supplier
+ javaproject.demo.entities.Supplier$SupplierBuilder
+javaproject/demo/entities/Client.java
+ javaproject.demo.entities.Client
+ javaproject.demo.entities.Client$ClientBuilder
+javaproject/demo/TechnicsApplication.java
+ javaproject.demo.TechnicsApplication
